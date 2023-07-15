@@ -1,0 +1,426 @@
+14:07:21.680 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+14:07:21.763 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+14:07:23.668 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+14:07:23.670 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+14:07:27.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+14:07:27.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+14:08:04.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+14:08:04.106 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+14:08:05.532 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+14:08:05.534 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+14:08:08.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+14:08:09.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+14:08:09.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+09:05:56.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+09:05:57.142 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+09:05:58.895 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+09:05:59.155 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+09:06:03.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+09:06:03.359 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+09:06:03.359 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+09:20:17.706 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+09:20:17.918 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+09:20:18.907 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+09:20:18.916 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+09:20:23.152 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+09:20:23.253 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+09:20:23.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+09:20:51.181 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+09:20:51.798 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+09:20:53.220 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+09:20:53.229 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+09:20:58.075 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+09:20:58.691 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+09:20:58.692 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+09:31:02.571 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+09:31:02.889 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+09:31:03.897 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+09:31:03.905 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+09:31:04.420 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+09:31:04.651 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+09:31:06.789 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+09:31:06.791 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+09:31:07.918 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+09:31:08.027 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+09:31:08.027 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+09:31:10.938 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+09:31:10.995 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+09:31:10.995 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+13:31:59.593 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+13:31:59.862 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+13:32:00.789 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+13:32:00.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+13:32:04.127 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+13:32:04.153 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+13:32:04.153 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+17:03:12.679 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+17:03:12.966 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+17:03:14.433 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+17:03:14.436 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+17:03:18.786 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+17:03:18.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:03:18.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+17:06:44.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+17:06:44.301 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+17:06:45.326 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+17:06:45.331 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+17:06:48.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+17:06:48.920 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:06:48.920 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+17:07:35.655 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+17:07:35.774 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+17:07:36.949 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+17:07:36.953 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+17:07:41.998 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+17:07:42.071 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+15:58:45.031 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+15:58:45.394 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+15:58:46.375 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+15:58:46.384 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+15:58:50.591 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+15:58:50.648 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+15:58:50.649 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+15:58:57.538 [main] INFO  testCases.TC002_logintest - Login Test
+15:58:57.792 [main] INFO  testCases.TC002_logintest - clicked on my account
+15:58:58.460 [main] INFO  testCases.TC002_logintest - clicked on login
+15:58:59.087 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+15:59:51.552 [main] INFO  testCases.TC002_logintest - Login Test
+15:59:51.915 [main] INFO  testCases.TC002_logintest - clicked on my account
+15:59:52.968 [main] INFO  testCases.TC002_logintest - clicked on login
+15:59:53.558 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+16:01:00.284 [main] INFO  testCases.TC002_logintest - Login Test
+16:01:00.613 [main] INFO  testCases.TC002_logintest - clicked on my account
+16:01:01.250 [main] INFO  testCases.TC002_logintest - clicked on login
+16:01:01.855 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+16:07:00.574 [main] INFO  testCases.TC002_logintest - Login Test
+16:07:01.279 [main] INFO  testCases.TC002_logintest - clicked on my account
+16:07:01.715 [main] INFO  testCases.TC002_logintest - clicked on login
+16:07:01.910 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+16:08:58.555 [main] INFO  testCases.TC002_logintest - Login Test
+16:08:58.667 [main] INFO  testCases.TC002_logintest - clicked on my account
+16:09:00.486 [main] INFO  testCases.TC002_logintest - clicked on login
+16:09:00.689 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+16:09:56.320 [main] INFO  testCases.TC002_logintest - Login Test
+16:09:56.416 [main] INFO  testCases.TC002_logintest - clicked on my account
+16:09:56.785 [main] INFO  testCases.TC002_logintest - clicked on login
+16:09:56.997 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+17:10:03.240 [main] INFO  testCases.TC002_logintest - Login Test
+17:10:03.323 [main] INFO  testCases.TC002_logintest - clicked on my account
+17:10:03.823 [main] INFO  testCases.TC002_logintest - clicked on login
+17:10:03.966 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+17:14:08.476 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+17:14:08.554 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+17:14:10.392 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+17:14:10.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+17:14:13.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+17:14:13.738 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:14:13.738 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+17:14:34.850 [main] INFO  testCases.TC002_logintest - Login Test
+17:14:34.919 [main] INFO  testCases.TC002_logintest - clicked on my account
+17:14:35.413 [main] INFO  testCases.TC002_logintest - clicked on login
+17:14:35.560 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+20:33:35.138 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+20:33:35.369 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+20:33:36.281 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+20:33:36.742 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+20:34:08.712 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+20:34:08.814 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+20:34:09.433 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+20:34:09.749 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+20:34:41.034 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+20:34:41.039 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+20:34:41.153 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+20:34:41.699 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+20:34:42.051 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+20:35:12.291 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+20:35:12.302 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+20:35:12.481 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+20:35:13.093 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+20:35:13.614 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+13:12:53.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+13:12:53.761 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+13:12:54.949 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+13:12:54.953 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+13:13:00.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+13:13:00.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+13:13:00.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+13:13:09.889 [main] INFO  testCases.TC002_logintest - Login Test
+13:13:10.343 [main] INFO  testCases.TC002_logintest - clicked on my account
+13:13:10.936 [main] INFO  testCases.TC002_logintest - clicked on login
+13:13:11.352 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+13:14:43.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+13:14:43.843 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+13:14:44.484 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+13:14:44.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+13:14:48.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+13:14:48.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+13:14:48.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+13:14:53.905 [main] INFO  testCases.TC002_logintest - Login Test
+13:14:54.004 [main] INFO  testCases.TC002_logintest - clicked on my account
+13:14:54.924 [main] INFO  testCases.TC002_logintest - clicked on login
+13:14:55.549 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+13:15:25.841 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
+13:31:02.308 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+13:31:06.690 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+13:31:15.342 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+13:31:15.391 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+13:31:15.444 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+13:31:15.959 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+13:31:18.029 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+13:31:18.031 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+13:31:21.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+13:31:21.158 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+13:31:21.158 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+13:31:22.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+13:31:22.247 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+13:31:22.247 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+13:31:50.710 [main] INFO  testCases.TC002_logintest - Login Test
+13:31:50.803 [main] INFO  testCases.TC002_logintest - clicked on my account
+13:31:51.020 [main] INFO  testCases.TC002_logintest - Login Test
+13:31:51.102 [main] INFO  testCases.TC002_logintest - clicked on my account
+13:31:51.481 [main] INFO  testCases.TC002_logintest - clicked on login
+13:31:51.690 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+13:31:52.170 [main] INFO  testCases.TC002_logintest - clicked on login
+13:31:52.389 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+13:34:10.956 [main] INFO  testCases.TC002_logintest - Login Test
+13:34:11.064 [main] INFO  testCases.TC002_logintest - clicked on my account
+13:34:11.525 [main] INFO  testCases.TC002_logintest - clicked on login
+13:34:11.736 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+13:34:41.852 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
+10:07:32.333 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+10:07:32.438 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+10:07:33.044 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+10:07:33.046 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+10:07:36.524 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+10:07:36.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+10:07:36.591 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+10:07:40.886 [main] INFO  testCases.TC002_logintest - Login Test
+10:07:40.948 [main] INFO  testCases.TC002_logintest - clicked on my account
+10:07:41.499 [main] INFO  testCases.TC002_logintest - clicked on login
+10:07:41.854 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+10:08:12.838 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
+10:11:09.881 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+10:11:09.953 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+10:11:10.488 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+10:11:10.641 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+10:11:43.988 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+10:11:44.038 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+10:11:44.483 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+10:11:44.618 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+10:12:14.703 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+10:12:14.705 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+10:12:14.751 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+10:12:15.159 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+10:12:15.277 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+10:12:45.393 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+10:12:45.396 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+10:12:45.438 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+10:12:45.893 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+10:12:46.001 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+10:24:36.127 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+10:24:36.199 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+10:24:37.488 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+10:24:37.489 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+10:24:42.682 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+17:32:23.573 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+17:32:23.746 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+17:32:24.476 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+17:32:24.790 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+17:32:28.176 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+17:32:28.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:32:28.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+17:32:34.404 [main] INFO  testCases.TC002_logintest - Login Test
+17:32:34.482 [main] INFO  testCases.TC002_logintest - clicked on my account
+17:32:35.169 [main] INFO  testCases.TC002_logintest - clicked on login
+17:32:35.344 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+17:33:05.481 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
+17:37:40.253 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:37:40.326 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:37:40.780 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:37:40.935 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:38:12.632 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:38:12.698 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:38:13.113 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:38:13.329 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:38:19.329 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:38:19.535 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:38:19.972 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:38:20.210 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:38:21.420 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:38:21.579 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:38:22.013 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:38:22.213 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:38:43.441 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:38:43.443 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:38:43.477 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:38:43.917 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:38:44.049 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:38:51.390 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:38:51.455 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:38:51.862 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:38:51.998 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:38:53.273 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:38:53.310 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:38:53.689 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:38:53.798 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:39:07.423 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+17:39:07.643 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+17:39:08.541 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+17:39:08.542 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+17:39:11.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+17:39:11.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+17:39:15.239 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:39:15.243 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:39:15.290 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:39:15.674 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:39:15.792 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:39:19.685 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:39:19.743 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:39:20.291 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:39:20.464 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:39:22.079 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:39:22.081 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:39:22.120 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:39:22.966 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:39:23.077 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:39:23.901 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:39:23.903 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:39:23.938 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:39:24.329 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:39:24.443 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:39:51.604 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:39:51.641 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:39:52.029 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:39:52.136 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:39:53.171 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:39:53.173 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:39:53.208 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:39:53.611 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:39:53.724 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:39:54.522 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:39:54.526 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:39:54.598 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:39:54.993 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:39:55.107 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:40:22.208 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:40:22.216 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:40:22.271 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:40:22.703 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:40:22.819 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+17:40:52.928 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+17:40:52.932 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+17:40:52.966 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+17:40:53.350 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+17:40:53.463 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:41:25.843 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:41:25.894 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:41:26.168 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:41:26.173 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:41:26.649 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:41:26.650 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:41:27.230 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:41:27.230 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:41:58.338 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:41:58.381 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:41:58.758 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:41:58.846 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:41:58.889 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:41:58.890 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:41:59.289 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:41:59.409 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:42:28.998 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+09:42:29.002 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:42:29.040 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:42:29.428 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:42:29.470 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+09:42:29.475 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:42:29.515 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:42:29.542 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:42:29.913 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:42:30.012 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:42:59.641 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+09:42:59.646 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:42:59.705 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:43:00.090 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:43:00.098 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+09:43:00.100 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+09:43:00.145 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+09:43:00.222 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+09:43:00.548 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+09:43:00.685 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:18:05.119 [main] INFO  testCases.TC002_logintest - Login Test
+11:18:05.295 [main] INFO  testCases.TC002_logintest - clicked on my account
+11:18:05.766 [main] INFO  testCases.TC002_logintest - clicked on login
+11:18:06.012 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+11:18:36.827 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
+11:19:07.743 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:19:07.795 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:19:08.266 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:19:08.412 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:19:40.158 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:19:40.203 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:19:40.576 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:19:40.694 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:20:10.753 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+11:20:10.754 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:20:10.793 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:20:11.185 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:20:11.284 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:20:41.959 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+11:20:41.960 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:20:42.002 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:20:42.390 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:20:42.492 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:22:49.567 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+11:22:49.653 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+11:22:50.586 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+11:22:50.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+11:22:54.147 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+11:22:54.693 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+11:23:04.424 [main] INFO  testCases.TC002_logintest - Login Test
+11:23:04.496 [main] INFO  testCases.TC002_logintest - clicked on my account
+11:23:05.092 [main] INFO  testCases.TC002_logintest - clicked on login
+11:23:05.231 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+11:23:35.958 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
+11:23:41.353 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:23:41.408 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:23:42.150 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:23:42.296 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:24:13.206 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:24:13.248 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:24:13.652 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:24:13.765 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:24:43.872 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+11:24:43.874 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:24:43.910 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:24:44.327 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:24:44.445 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:25:14.548 [main] INFO  testCases.TC_003_logindatadriventest - ** Finished TC003 **
+11:25:14.551 [main] INFO  testCases.TC_003_logindatadriventest - ***Starting the TC_003_logindatadriventest *** 
+11:25:14.589 [main] INFO  testCases.TC_003_logindatadriventest - clicked on my account
+11:25:15.004 [main] INFO  testCases.TC_003_logindatadriventest - clicked on login
+11:25:15.111 [main] INFO  testCases.TC_003_logindatadriventest - entered emial and passwod
+11:54:23.326 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+11:54:23.423 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+11:54:24.246 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+11:54:24.247 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+11:54:27.596 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+11:54:27.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+11:54:27.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+11:54:33.763 [main] INFO  testCases.TC002_logintest - Login Test
+11:54:33.827 [main] INFO  testCases.TC002_logintest - clicked on my account
+11:54:34.310 [main] INFO  testCases.TC002_logintest - clicked on login
+11:54:34.454 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+11:55:04.554 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
+12:17:07.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** TC_001_AccountRegistrationTest ***
+12:17:07.634 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on MyAccount
+12:17:08.782 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on register
+12:17:08.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+12:17:12.385 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+12:17:12.787 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+12:17:12.788 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ***
+12:17:28.891 [main] INFO  testCases.TC002_logintest - Login Test
+12:17:28.970 [main] INFO  testCases.TC002_logintest - clicked on my account
+12:17:29.533 [main] INFO  testCases.TC002_logintest - clicked on login
+12:17:29.678 [main] INFO  testCases.TC002_logintest - entered emial and passwod
+12:17:59.974 [main] INFO  testCases.TC002_logintest - ** Finshed TC002_logintest **
